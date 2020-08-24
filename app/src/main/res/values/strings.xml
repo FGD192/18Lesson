@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">18Lesson</string>
+    <string name="musishial">music</string>
+    <string name="map">places</string>
+    <string name="calendar">calendar</string>
+    <string name="weather">weather</string>
+
+</resources>
